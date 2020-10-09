@@ -1,4 +1,4 @@
-# T450-s-Opencore-0.6.2-Intel-wifi
+# T450/s Opencore 0.6.2 EFI for Intel
 It supports Native Intel wifi and bluetooth so no wifi card swap is needed.
 
  Whats works: Graphic card, CPU POWER MANAGMENT (SSDT FROM I5 5300u), Audio, SD CARD READER, INTEL WIFI AND BLUETOOTH,
